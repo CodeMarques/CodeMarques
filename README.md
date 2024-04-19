@@ -19,7 +19,7 @@ I have always been very attracted to human behavior and communication.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 
 <!-- GithubStats -->
-![Codemarques GitHub stats](https://github-readme-stats.vercel.app/api?username=codemarques&show_icons=true&theme=gotham)
+![Codemarques GitHub stats](https://github-readme-stats.vercel.app/api?username=codemarques&show_icons=true&theme=chartreuse-dark)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
