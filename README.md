@@ -8,7 +8,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old and currently live in Brazil. I have basic knowledge of English and am currently learning about back-end, I have experience with editing and design.
+  - 💬 I amn Ian Marques i have 19 years old and currently live in Brazil. I have basic knowledge of English and am currently learning about back-end, I have experience with editing and design.
 I have always been very attracted to human behavior and communication.
 
   - ⚡ I like reading, whether it's a good book or manga, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
